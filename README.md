@@ -12,7 +12,7 @@ I'm Aryan Nanda, a dedicated software developer with a passion for full-stack we
 ## 📫 Get in Touch
 
 - [**LinkedIn**](https://www.linkedin.com/in/aryan-nanda/)
-- 
+  
 
 <!--
 **aryannanda8/aryannanda8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
