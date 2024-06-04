@@ -11,7 +11,7 @@ I'm Aryan Nanda, a dedicated software developer with a passion for full-stack we
 
 ## 📫 Get in Touch
 
-- [**LinkedIn**](https://www.linkedin.com/in/aryan-nanda/)
+- [**LinkedIn**](https://www.linkedin.com/in/aryan-nanda18/)
   
 
 <!--
